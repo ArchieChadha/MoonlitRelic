@@ -1,0 +1,1002 @@
+Project Log 
+
+Date:    20/10/2024 1:31:39 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:35:46 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:37:43 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:40:12 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:42:05 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:43:47 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:44:32 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:45:15 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:45:59 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:48:15 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:48:38 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:49:27 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:51:22 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:53:16 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:55:28 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:58:52 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:00:33 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:02:07 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:05:59 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:10:01 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:10:57 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:25:54 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:38:39 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:38:53 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:39:53 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:55:11 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:00:47 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:07:40 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:09:10 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:45:00 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:58:09 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:59:33 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:07:53 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:15:57 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:19:40 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 12:43:58 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:11:38 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:21:33 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:23:38 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:28:02 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:28:35 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:29:49 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:30:01 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:33:39 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:38:46 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:46:56 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:52:54 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:54:52 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 1:56:57 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:16:06 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:17:57 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:20:35 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:22:06 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:29:31 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 2:41:40 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:01:29 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:09:46 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:19:36 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:28:29 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:36:21 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:43:51 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:47:27 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:50:29 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:57:01 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 3:58:53 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:02:11 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:06:01 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:08:52 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:11:26 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:16:07 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:17:55 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:18:23 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:18:40 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:19:17 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:19:58 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:20:39 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:22:58 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 4:39:44 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 5:24:11 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 5:30:44 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 5:45:19 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 8:30:17 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 8:55:52 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 8:58:32 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 8:59:57 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:01:29 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:14:25 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:33:54 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:38:36 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:43:34 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:53:54 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 9:55:22 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 10:21:35 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 10:24:59 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 10:56:25 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 10:57:13 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 10:58:25 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:00:23 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:05:51 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:06:04 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:08:58 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:16:34 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:22:44 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:23:37 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:25:01 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    20/10/2024 11:26:13 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 12:40:50 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 12:44:48 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 1:05:17 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 8:15:14 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 9:28:35 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 9:47:13 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 9:52:58 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 9:55:50 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 9:56:39 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:33:45 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:38:22 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:42:21 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:43:55 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:49:42 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:50:36 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:53:15 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 10:58:52 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:06:05 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:07:35 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:10:19 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:13:02 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:14:13 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:35:00 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:37:06 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:52:41 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    21/10/2024 11:59:28 PM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:03:20 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:06:21 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:07:27 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:07:58 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:08:23 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:09:33 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:15:00 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    22/10/2024 12:31:17 AM 
+OS:      Microsoft Windows NT 10.0.22631.0 
+Machine: ARCHIE 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3150,-37.8812,145.1656,Australia/Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,175.36.165.198
+User:    archi 
+Folder:  C:\Users\archi\OneDrive\Documents\BachelorofIT\Semester 2\ITECH2001\Part C\30436129_MoonlitRelic 
+
+Date:    27/04/2025 11:38:02 PM 
+OS:      Unix 24.2.0.0 
+Machine: Archies-Air 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3053,-37.8024,144.9659,Australia/Melbourne,Vodafone Australia Pty Ltd,Vodafone Australia Pty Ltd,AS133612 Vodafone Australia Pty Ltd,101.115.152.110
+User:    archiechadha 
+Folder:  /Users/archiechadha/Downloads/30436129_MoonlitRelic 
+
+Date:    27/04/2025 11:39:42 PM 
+OS:      Unix 24.2.0.0 
+Machine: Archies-Air 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3053,-37.8024,144.9659,Australia/Melbourne,Vodafone Australia Pty Ltd,Vodafone Australia Pty Ltd,AS133612 Vodafone Australia Pty Ltd,101.115.152.110
+User:    archiechadha 
+Folder:  /Users/archiechadha/Downloads/30436129_MoonlitRelic 
+
+Date:    27/04/2025 11:41:50 PM 
+OS:      Unix 24.2.0.0 
+Machine: Archies-Air 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3053,-37.8024,144.9659,Australia/Melbourne,Vodafone Australia Pty Ltd,Vodafone Australia Pty Ltd,AS133612 Vodafone Australia Pty Ltd,101.115.152.110
+User:    archiechadha 
+Folder:  /Users/archiechadha/Downloads/30436129_MoonlitRelic 
