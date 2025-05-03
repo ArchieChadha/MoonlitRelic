@@ -20,6 +20,13 @@ Key Features
 Gameplay Overview
 In Moonlit Relic, players are tasked with uncovering the ancient relic hidden deep within the forgotten world. The journey is filled with puzzles that require both critical thinking and exploration. Along the way, players will encounter various obstacles, enemies, and NPCs that offer clues to guide them on their quest. With each step, the narrative unfolds, revealing the deeper mysteries of the game world.
 
+Screenshots
+Here are some screenshots of the game to give you a glimpse into the world of Moonlit Relic:
+<img width="1264" alt="Screenshot 2025-04-27 at 11 41 06 pm" src="https://github.com/user-attachments/assets/33484310-1245-402a-9cf0-73feb06c5d2b" />
+
+<img width="1470" alt="Screenshot 2025-04-27 at 11 43 58 pm" src="https://github.com/user-attachments/assets/3a8495aa-f350-4040-bd8b-168bcbc7b789" />
+<img width="1470" alt="Screenshot 2025-04-27 at 11 44 05 pm" src="https://github.com/user-attachments/assets/ef40c938-b756-4799-85b7-c305495678f8" />
+
 Installation Instructions
 Clone or download this repository to your local machine.
 git clone https://github.com/ArchieChadha/MoonlitRelic.git
